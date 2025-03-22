@@ -5,6 +5,8 @@ The current AI revolution changes the rules of software. Here's why I'm convince
 
 ---
 
+# I. Context
+
 ### A planet of blue oceans
 A small B2B SaaS that used to cost $100k to build now can launch for <$10k. Cheap operations and software fundamentally shift the ratio of lift/labour/cost to revenue potential, i.e. there's an abundance of business cases formerly not worth the effort, which are now easily profitable.  It's not yet clear who will build them, and how.
 
@@ -30,18 +32,6 @@ To stay competitive, organizations must build out two core capabilities in locks
 
 ---
 
-## Ingredients for autonomous startups, simplified
-* ✅ A team edge from repeated strategic and end2end operational ownership of GTM, product, tech, automation, and AI tooling
-* ✅ Aligning macro trends
-  * Readily available industry best practices for building startups
-  * Rapidly improving 3rd-party automation tools for revenue and product operations
-* ✅ A platform that self-innovates, cross-pollinates, always uses the best-in-class 3rd-party agentic tools, operated by agentic teams (strategy, revenue, product)
-* ✅ An elegant, focused business case 
-
-Curious? Let's talk!
-
----
-
 ## The startup autonomy ladder
 
 1. **AI tools**: Basic usage of platforms like ChatGPT for content creation, research, or light ops.
@@ -50,8 +40,21 @@ Curious? Let's talk!
 4. **Self-driving startups**: AI agents adapt strategy based on operational and market data, with minimal human input.
 5. **Self-assembling startups**: Agents source, qualify, and execute new business ideas fully on their own.
 
+---
 
-## Who's on board
+# II. e venture
+
+## Ingredients for autonomous startups, simplified
+* ✅ A team edge from repeated strategic and end2end operational ownership of GTM, product, tech, automation, and AI tooling
+* ✅ Aligning macro trends
+  * Readily available industry best practices for building startups
+  * Rapidly improving 3rd-party automation tools for revenue and product operations
+* ✅ A platform that self-innovates, cross-pollinates, always uses the best-in-class 3rd-party agentic tools, operated by agentic teams (strategy, revenue, product)
+* ✅ An elegant, focused business case (let's talk)
+
+---
+
+# Who's on board
 **[Alexander Thiel](https://www.linkedin.com/in/reasn/)**, 9 years as a startup CTO, 0 → Series B
 
 I've led and operated early-stage product and tech, often mentoring on GTM strategy.
@@ -69,6 +72,9 @@ You bring something resembling these feats:
 - 5+ structured business-case analyses
 - Comfort with low/no-code automation
 - Deep knowledge of startup/GTM playbooks
+
+
+---
 
 
 ### Near-term roadmap
