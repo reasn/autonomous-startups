@@ -42,7 +42,7 @@ To stay competitive, organizations must build out two core capabilities in locks
 
 ---
 
-# II. e venture
+# II. The venture
 
 ## Ingredients for autonomous startups, simplified
 * ✅ A team edge from repeated strategic and end2end operational ownership of GTM, product, tech, automation, and AI tooling
