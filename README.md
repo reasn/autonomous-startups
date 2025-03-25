@@ -1,9 +1,7 @@
 # Elegant swarm: autonomous startups
 
 ---
-The current AI revolution changes the rules of software. Here's why I'm convinced that soon, AI agents will run SaaS startups end2end—faster and at a fraction of the cost (*I'm currently building and assembling the team to make this happen*).
-
----
+Here's why I'm convinced that soon, AI agents will run SaaS startups end2end—faster and at a fraction of the cost. I'm currently assembling the team to make this happen. If you have strategic and operational GTM experience, write [me@alexthiel.de](mailto:me@alexthiel.de).
 
 # I. Context
 
@@ -23,7 +21,7 @@ To stay competitive, organizations must build out two core capabilities in locks
 ---
 
 ### Preparedness for exponential outcomes is hard
-1. Defensibility is becoming hard to predict
+1. Defensibility is becoming harder to predict
 2. There's a bounty of available profitable business cases
 3. The opportunity costs of getting this race for abstraction/automation wrong, are huge.
 4. Autonomous startups are the endpoint of accelerating automation.
@@ -52,10 +50,8 @@ To stay competitive, organizations must build out two core capabilities in locks
 * ✅ A platform that self-innovates, cross-pollinates, always uses the best-in-class 3rd-party agentic tools, operated by agentic teams (strategy, revenue, product)
 * ✅ An elegant, focused business case (let's talk)
 
----
 
 ## Approach, tbd & simplified
-
 1. Experienced founders approach us with opportunities based on unique insights into their vertical, but for which they don't have the time.
 2. Founders invest 2k€/month, 1-3h/w, referrals, and intros as skin in the game and guidance. They receive 10% of revenue & exit proceeds.
 3. Our platform (3 units of agents: strategy, revenue, product) validates, strategizes, and executes.
