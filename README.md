@@ -63,7 +63,7 @@ To stay competitive, organizations must build out two core capabilities in locks
 
 ---
 
-# Who's on board
+## The team
 **[Alexander Thiel](https://www.linkedin.com/in/reasn/)**, 9 years as a startup CTO, 0 → Series B
 
 I've led and operated early-stage product and tech, often mentoring on GTM strategy.
@@ -106,6 +106,6 @@ You bring something resembling these feats:
 
 ---
 
-## Let’s talk
+# III. Let’s talk
 If you’re excited to contribute to this vision, contact me. Let’s make autonomous startups a reality.
 [me@alexthiel.de](mailto:me@alexthiel.de)
