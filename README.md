@@ -48,7 +48,7 @@ Deep automation and adjustability of company strategy reduce but don't mitigate 
 
 
 ## Approach, tbd & simplified
-1. Experienced founders approach us with opportunities based on unique insights into their vertical, but for which they don't have the time.
+1. Experienced founders approach us with opportunities based on unique insights into their vertical, but outside their current strategic focus.
 2. Founders invest 2k€/month, 1-3h/w, referrals, and intros as skin in the game and guidance. They receive 10% of revenue & exit proceeds.
 3. Our platform (3 units of agents: strategy, revenue, product) validates, strategizes, and executes.
 4. Relentless automation reduces our team's hands-on involvement case-by-case, increasing funnel bandwidth to achieve zero-touch.
