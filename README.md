@@ -19,10 +19,10 @@ Deep automation and adjustability of company strategy reduce but don't mitigate 
 ---
 
 ### SaaS startups are becoming a commodity
-1. Defensibility is disappearing
-2. Available profitable small SaaS cases are abundant
-3. A startup with higher degree of automation will always be the disruptor.
-4. The endpoint is autonomous startups.
+* Defensibility is disappearing
+* Available profitable small SaaS cases are abundant
+* A startup with higher degree of automation will always be the disruptor.
+* The endpoint is autonomous startups.
 
 ---
 
