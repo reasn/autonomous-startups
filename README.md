@@ -65,7 +65,7 @@ Commitments from people who helped me build great things:
 * A **Staff engineer**, M.Sc. in CS, 8+ years of end-to-end engineering (infra, back end, front end, product, leadership)  
 * A **Youngry engineer**, M.Sc. in CS, 4 years full-stack engineering, just promoted to senior
 
-### Missing: A GTM strategy, execution, and automation expert
+### Missing: A GTM expert (strategy, execution, and automation)
 You're ambitious, curious, kind, and enjoy the frustrating feeling of not (yet) understanding something.
 You've done things equivalent to:
 - C-level startup leadership (2+ ventures)
