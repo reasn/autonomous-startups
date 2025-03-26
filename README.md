@@ -90,13 +90,6 @@ You've done things equivalent to:
 
 ---
 
-## Risks
-* Poor execution. 💊: High-performing team + helpful investors
-* AI has insufficient grit. 💊: Guidance by founders + gradual increase of automation
-* AI stops accelerating. 💊: We can do with today's level of technology
-* Another player, e.g. [iterate.com](https://iterate.com) is too fast. 💊: Verticalized strategy + high-performing team
-
----
 
 # III. Let’s talk
 If you’re excited to contribute to this vision, contact me. Let’s make autonomous startups a reality.
