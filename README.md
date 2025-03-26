@@ -1,32 +1,28 @@
 # Elegant swarm: autonomous startups
 
 ---
-Here's why I'm convinced that soon, AI agents will run SaaS startups end2end—faster and at a fraction of the cost. I'm currently assembling the team to make this happen. If you have strategic and operational GTM experience, write [me@alexthiel.de](mailto:me@alexthiel.de).
+Soon, AI agents will run SaaS startups end2end—faster and at a fraction of the cost. I'm currently assembling the team to make this happen. If you have strategic and operational GTM experience, write [me@alexthiel.de](mailto:me@alexthiel.de).
 
 # I. Context
 
 ### A planet of blue oceans
 A small B2B SaaS that used to cost $100k to build now can launch for <$10k. Cheap operations and software fundamentally shift the ratio of lift/labour/cost to revenue potential, i.e. there's an abundance of business cases formerly not worth the effort, which are now easily profitable.  It's not yet clear who will build them, and how.
 
-➡ In the next couple of years, markets will be flooded with new, affordable, and useful software
-### Risk and opportunity
-With the accelerating speed of AI development, for every SaaS business,
-there's a growing risk that its model will be undermined by technological advances.
-To stay competitive, organizations must build out two core capabilities in lockstep with the advancement of AI:
-* Automation across all departments
-* Deep adjustability of company strategy
+➡ Markets will be flooded with new, affordable, and useful software.
 
-➡ Building and maintaining these capabilities in a growing human organization is difficult and expensive.
+### Defensibility is disappearing
+With the AI acceleration, SaaS businesses increasingly risk their models to be undermined by technological advances.
+Deep automation and adjustability of company strategy reduce but don't mitigate those risks
+
+➡ Long-term big SaaS plays are increasingly risky.
 
 ---
 
-### Preparedness for exponential outcomes is hard
-1. Defensibility is becoming harder to predict
-2. There's a bounty of available profitable business cases
-3. The opportunity costs of getting this race for abstraction/automation wrong, are huge.
-4. Autonomous startups are the endpoint of accelerating automation.
-
-🎯 Autonomous startups are the disruptor, not the disrupted.
+### SaaS startups are becoming a commodity
+1. Defensibility is disappearing
+2. Available profitable small SaaS cases are abundant
+3. A startup with higher degree of automation will always be the disruptor.
+4. The endpoint is autonomous startups.
 
 ---
 
@@ -71,11 +67,11 @@ Commitments from people who helped me build great things:
 
 ### Missing: A GTM strategy, execution, and automation expert
 You're ambitious, curious, kind, and enjoy the frustrating feeling of not (yet) understanding something.
-You bring something resembling these feats:
+You've done things equivalent to:
 - C-level startup leadership (2+ ventures)
 - 3+ end-to-end GTM launches
 - 5+ structured business-case analyses
-- Comfort with low/no-code automation
+- Day-to-day creator of low/no-code automations
 - Deep knowledge of startup/GTM playbooks
 
 
