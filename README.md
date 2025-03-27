@@ -66,7 +66,7 @@ Commitments from people who helped me build great things:
 * A **Youngry engineer**, M.Sc. in CS, 4 years full-stack engineering, just promoted to senior
 
 ### Missing: A GTM expert (strategy, execution, and automation)
-You're ambitious, curious, kind, and enjoy the frustrating feeling of not (yet) understanding something.
+You're ambitious, curious, kind, and enjoy the frustrating feeling of not (yet) understanding something, and live in Berlin.
 You've done things equivalent to:
 - C-level startup leadership (2+ ventures)
 - 3+ end-to-end GTM launches
