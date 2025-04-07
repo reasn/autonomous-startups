@@ -2,15 +2,15 @@
 
 Soon, AI agents will run SaaS startups end-to-end—faster and at a fraction of the cost. I'm assembling the team to make this happen.
 
-If you have strategic and operational GTM experience, or capital strategy experience, write me: [me@alexthiel.de](mailto:me@alexthiel.de)
+If you have strategic and operational GTM experience, write me: [me@alexthiel.de](mailto:me@alexthiel.de)
 
 ---
 
 ## I. Introduction
 
-I've spent most of my career building early-stage startups—as CTO, taking companies from 0 to Series B. A few months doing nothing but talking, thinking, and research made clear: We've reached a threshold where AI can't just support humans building tools, it allows building a system that *builds the company itself*.
+I've spent my career building startups—as CTO from 0 to Series B. After 5 months of focused learning, listening, and thinking made clear: We've reached a threshold where AI can't just support humans building tools, it allows building a system that *build the company itself*.
 
-**Elegant Swarm is that system. Agents do the work. People step in only when needed.**
+**Elegant Swarm is that system. Agents do the work. People are pulled in when needed.**
 
 ---
 
@@ -42,7 +42,7 @@ Tech acceleration is outpacing moats. SaaS defensibility is down, while timing a
 2. **Agentic tools**: Multiple agents execute from instructions  
 3. **Orchestrator agents**: Manager agents delegate and escalate  
 4. **Self-driving startups**: Agents run ops, adjust strategy  
-5. **Self-assembling startups**: Agents source, qualify, and build ideas
+5. **Self-assembling startups**: Agents source, qualify, and build cases
 
 ---
 
@@ -64,33 +64,14 @@ Elegant Swarm is a **startup compiler**: you feed in a high-leverage insight—o
 
 **[Alexander Thiel](https://www.linkedin.com/in/reasn/)**  
 CTO 0 → Series B | Automation-native | Product, GTM, and AI systems  
-Now full-time on Elegant Swarm.
+Now full-time on Elegant Swarm. 
 
-Committed:  
-- **Staff-level engineer** – 8+ years full-stack & infra  
-- **Senior engineer** – 4+ years, promoted early  
+Committed:
+- **Staff-level engineer** – 8+ years XP, full-stack, infra, and leadership
+- **Senior engineer** – 4+ years, promoted early
 
----
-
-### Looking for One Co-Founder: Two Possible Profiles
-
-I’m looking for **one co-founder**—someone exceptional who fits **either** of these profiles:
-
----
-
-#### 1. **GTM Operator** – *Growth Strategist & Sponsor Flywheel Architect*  
-Early-stage GTM lead who turns abstract propositions into live markets. You’ll own sponsor acquisition, the freemium flywheel, and experimentation architecture.  
-You've led 3+ full GTM launches, built with low/no-code tools, and think in feedback loops.
-
----
-
-#### 2. **VC-Type** – *Capital Strategist & Portfolio Design Lead*  
-An operator-investor hybrid who can turn weird-but-right systems into fundable stories. You’ll own investor narrative, capital roadmap, and help design the platform’s financial structure.  
-You've raised or supported >$10M and evaluated dozens of early-stage startups.
-
----
-
-Let’s build this system together.
+Missing: **GTM Expert (strategy, execution, and automation)**  
+You're ambitious, curious, kind, and unafraid of problems you haven't solved yet.
 
 ---
 
@@ -108,12 +89,9 @@ The rest is built for you.
 
 ### Early Signals
 
-- Autonomous generation of strategy and product assets live  
-- Recursive use: Elegant Swarm is building itself  
-- Exponential speedup with every new capability  
-- High-confidence path to full-stack SaaS creation
-
-> The system already helps us build Elegant Swarm itself—autonomously, recursively, and at a speed no human team could match.
+- Autonomous generation of strategy and product assets live
+- Recursive use: Elegant Swarm is building itself
+- Enthusiastic feedback from AI founders
 
 ---
 
@@ -134,10 +112,10 @@ The rest is built for you.
 
 | **Startup Studios**       | **Elegant Swarm**                      |
 |---------------------------|----------------------------------------|
+| Service/consulting model  | Product platform with automation loop  |
 | Humans build companies    | Agents build companies                 |
 | Execution by teams        | Execution by agentic systems           |
-| Service/consulting model  | Product platform with automation loop  |
-| Founders drive decisions  | Sponsors guide, agents execute         |
+| Founders drive decisions  | Agents execute, sponsors guide         |
 | One-off builds            | Scalable, recursive engine             |
 
 ---
@@ -146,7 +124,7 @@ The rest is built for you.
 
 Elegant Swarm builds agent-run SaaS companies—autonomously, recursively, and at scale.
 
-Team: CTO with 9 years in early-stage, engineers committed, co-founder in progress.  
+Team: CTO with 9 years in early-stage, engineers committed, GTM co-founder in progress.  
 Traction: Autonomous strategy & product workflows live. Used to build Elegant Swarm itself.  
 This is not a studio. It's a system.
 
@@ -154,5 +132,5 @@ This is not a studio. It's a system.
 
 ## Let's Talk
 
-If this resonates—whether you're a GTM builder, capital strategist, sponsor, or investor—get in touch.  
+If this resonates—whether you're a GTM builder, sponsor, or investor—get in touch.  
 [me@alexthiel.de](mailto:me@alexthiel.de)
